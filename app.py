@@ -12,7 +12,7 @@ st.set_page_config(
     page_icon="👤",
     layout="wide"
 )
-st.image("l")
+st.image("IMG_1759414294672_1759427881107.jpg")
 
 # ==========================================
 # KHỞI TẠO DANH SÁCH KHÁCH HÀNG
