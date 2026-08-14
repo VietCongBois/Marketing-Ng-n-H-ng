@@ -140,6 +140,18 @@ if page == "👤 Nhập khách hàng":
             }
 
 
+            # Lưu vào session
+
+            st.session_state.customers.append(
+                customer
+            )
+
+
+            st.success(
+                "✅ Đã lưu thông tin khách hàng!"
+            )
+
+
 # ==========================================
 # TRANG ADMIN
 # ==========================================
@@ -282,13 +294,3 @@ elif page == "🔐 Admin":
                 ),
                 use_container_width=True
             )
-
-            # Lưu vào session
-
-            st.session_state.customers.append(
-                customer
-            )
-
-
-            st.success
-                "✅ Đã lưu thông tin khách hàng!"
