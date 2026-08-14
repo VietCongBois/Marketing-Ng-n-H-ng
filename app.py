@@ -138,7 +138,6 @@ if page == "👤 Nhập khách hàng":
                 "Địa chỉ": address.strip(),
                 "Ghi chú": note.strip()
             }
-)
 
 
 # ==========================================
