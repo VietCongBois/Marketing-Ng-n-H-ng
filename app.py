@@ -290,5 +290,5 @@ elif page == "🔐 Admin":
             )
 
 
-            st.success(
+            st.success
                 "✅ Đã lưu thông tin khách hàng!"
