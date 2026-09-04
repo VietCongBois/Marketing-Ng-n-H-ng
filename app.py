@@ -124,7 +124,6 @@ st.markdown("""
 init_session()
 
 # ==================== SIDEBAR ====================
-st.image("logo.jpg")
 with st.sidebar:
     st.markdown("### 📋 Customer Manager")
     st.caption("Hệ thống quản lý khách hàng")
