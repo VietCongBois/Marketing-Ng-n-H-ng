@@ -27,9 +27,7 @@
       --slate-700: #334155;
       --slate-800: #1e293b;
       --slate-900: #0f172a;
-      --radius: 12px;
-^
-SyntaxError: invalid decimal literal
+    SyntaxError: invalid decimal literal
       --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
       --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.07), 0 2px 4px -2px rgb(0 0 0 / 0.05);
       --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.08), 0 4px 6px -4px rgb(0 0 0 / 0.05);
